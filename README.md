@@ -1,4 +1,4 @@
-## Python 1 - Zarządzanie pamięcią
+## Python 1 - Lazy Streams
 
 ### Przykład aplikacji, w której pokazuję w jaki sposób używać w Python biblioteki lazy_streams
 
